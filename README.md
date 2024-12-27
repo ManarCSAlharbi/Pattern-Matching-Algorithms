@@ -64,7 +64,7 @@ This project explores and compares two popular pattern matching algorithms: **Br
   - 📊 Average search times for both algorithms.
 
 ---
-🤝 Contributions
+## 🤝 Contributions
 
 This project was collaboratively developed by me and my colleague. We worked together to design and implement the system, ensuring its functionality and reliability.
 ---
