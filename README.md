@@ -5,6 +5,7 @@
 - [✨ Features](#-features)
 - [🚀 How to Use](#-how-to-use)
 - [📤 Outputs](#-outputs)
+- [🤝 Contributions](#-Contributions)
 - [📜 License](#-license)
 
 ---
@@ -63,7 +64,10 @@ This project explores and compares two popular pattern matching algorithms: **Br
   - 📊 Average search times for both algorithms.
 
 ---
+🤝 Contributions
 
+This project was collaboratively developed by me and my colleague. We worked together to design and implement the system, ensuring its functionality and reliability.
+---
 ## 📜 License
 📄 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
